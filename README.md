@@ -17,7 +17,7 @@
 
 ## 🖼 Схема подключения
 
-![Схема Arduino](image/arduino.jpg)
+![Схема Arduino](image/arduino.JPG)
 
 На изображении показано, как подключены:
 
@@ -29,7 +29,7 @@
 
 ## 💻 Windows Forms Приложение
 
-![Windows Form](image/wf.jpg)
+![Windows Form](image/wf.JPG)
 
 В приложении отображаются:
 
